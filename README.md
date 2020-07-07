@@ -1,5 +1,7 @@
 Murph workout
 
+
+[link to main](main.py)
 for time:
 
 run 1 mile
